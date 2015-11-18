@@ -1,0 +1,8 @@
+<root>
+    <node order="1">node 1</node>
+    <node order="2">node 2</node>
+    <level>
+        <level2>Hello</level2>
+    </level>
+    <selfclosed id="1" /> 
+</root>
