@@ -1,0 +1,5 @@
+MODULES = 
+	$(MODULE SimpleXMLD.all)
+	$(MODULE SimpleXMLD.SimpleXML)
+	$(MODULE SimpleXMLD.XMLAttributes)
+	$(MODULE SimpleXMLD.XMLException)
